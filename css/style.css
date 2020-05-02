@@ -1,0 +1,92 @@
+.navbar-brand {
+    background-color: #cfcfcf;  
+}
+
+.nav-link {
+    color: #d9dbde;
+}
+
+
+.my-row2 {
+    padding: 10%;
+}
+.my-col {
+    
+    padding-bottom: 70px;
+   
+}
+
+.my-row-about {
+    background-color: #f2f2f2;
+
+
+}
+
+.my-row-about2 {
+    background-color: #f2f2f2;
+    width: 80%;
+    height: 80%;
+
+
+}
+
+.my-container {
+  width: auto;
+}
+
+.my-footer {
+    padding-top: 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+
+.my-col-portfolio {
+    
+    float: left;
+    padding-left: 20%;
+}
+
+.my-col-portfolio2 {
+   
+    float: right;
+    padding-right: 5%;
+    margin-left: 100px;
+   
+    
+}
+
+.my-col-portfolio3 {
+   
+    float: left;
+    padding-left: 80px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+ 
+}
+
+.my-col-portfolio4 {
+   
+    float: right;
+    padding-left: 18px;
+   
+    margin-top: 50px;
+}
+
+
+
+* {
+    box-sizing: border-box;
+  }
+
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
